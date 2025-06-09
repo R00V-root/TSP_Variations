@@ -1,0 +1,255 @@
+{
+  "route": [
+    {
+      "from": "Iowa",
+      "to": "Kansas",
+      "km": 333.1661951593898
+    },
+    {
+      "from": "Kansas",
+      "to": "Nebraska",
+      "km": 214.4656078459953
+    },
+    {
+      "from": "Nebraska",
+      "to": "Oklahoma",
+      "km": 609.8766344403801
+    },
+    {
+      "from": "Oklahoma",
+      "to": "Arkansas",
+      "km": 476.7808914651565
+    },
+    {
+      "from": "Arkansas",
+      "to": "Missouri",
+      "km": 426.2436694105161
+    },
+    {
+      "from": "Missouri",
+      "to": "Illinois",
+      "km": 255.94228188469603
+    },
+    {
+      "from": "Illinois",
+      "to": "Indiana",
+      "km": 298.3664987431244
+    },
+    {
+      "from": "Indiana",
+      "to": "Kentucky",
+      "km": 207.69980306144058
+    },
+    {
+      "from": "Kentucky",
+      "to": "Tennessee",
+      "km": 281.66918252089476
+    },
+    {
+      "from": "Tennessee",
+      "to": "Georgia",
+      "km": 345.9131623920692
+    },
+    {
+      "from": "Georgia",
+      "to": "South Carolina",
+      "km": 310.84054343577014
+    },
+    {
+      "from": "South Carolina",
+      "to": "Florida",
+      "km": 500.0845557526805
+    },
+    {
+      "from": "Florida",
+      "to": "Alabama",
+      "km": 288.60771503588427
+    },
+    {
+      "from": "Alabama",
+      "to": "Mississippi",
+      "km": 364.6885311467324
+    },
+    {
+      "from": "Mississippi",
+      "to": "Louisiana",
+      "km": 226.64504607837716
+    },
+    {
+      "from": "Louisiana",
+      "to": "Texas",
+      "km": 628.7608533748132
+    },
+    {
+      "from": "Texas",
+      "to": "New Mexico",
+      "km": 972.0036003806008
+    },
+    {
+      "from": "New Mexico",
+      "to": "Arizona",
+      "km": 616.1593695949967
+    },
+    {
+      "from": "Arizona",
+      "to": "Utah",
+      "km": 814.9793810007745
+    },
+    {
+      "from": "Utah",
+      "to": "Idaho",
+      "km": 475.2990837137724
+    },
+    {
+      "from": "Idaho",
+      "to": "Nevada",
+      "km": 577.5759781296127
+    },
+    {
+      "from": "Nevada",
+      "to": "California",
+      "km": 163.11417355652554
+    },
+    {
+      "from": "California",
+      "to": "Hawaii",
+      "km": 3958.5709831222157
+    },
+    {
+      "from": "Hawaii",
+      "to": "Alaska",
+      "km": 4524.238984663035
+    },
+    {
+      "from": "Alaska",
+      "to": "Washington",
+      "km": 1469.1033788568968
+    },
+    {
+      "from": "Washington",
+      "to": "Oregon",
+      "km": 233.32106145627554
+    },
+    {
+      "from": "Oregon",
+      "to": "Montana",
+      "km": 872.7542751568957
+    },
+    {
+      "from": "Montana",
+      "to": "Colorado",
+      "km": 950.4384783487736
+    },
+    {
+      "from": "Colorado",
+      "to": "Wyoming",
+      "km": 156.2769940920952
+    },
+    {
+      "from": "Wyoming",
+      "to": "North Dakota",
+      "km": 708.9176278697531
+    },
+    {
+      "from": "North Dakota",
+      "to": "South Dakota",
+      "km": 274.58955274716266
+    },
+    {
+      "from": "South Dakota",
+      "to": "Minnesota",
+      "km": 576.3845822359093
+    },
+    {
+      "from": "Minnesota",
+      "to": "Wisconsin",
+      "km": 363.6726364441371
+    },
+    {
+      "from": "Wisconsin",
+      "to": "Michigan",
+      "km": 395.10679222449056
+    },
+    {
+      "from": "Michigan",
+      "to": "Ohio",
+      "km": 334.4746131745299
+    },
+    {
+      "from": "Ohio",
+      "to": "West Virginia",
+      "km": 216.64231364087388
+    },
+    {
+      "from": "West Virginia",
+      "to": "North Carolina",
+      "km": 387.754046891716
+    },
+    {
+      "from": "North Carolina",
+      "to": "Virginia",
+      "km": 222.9608116580326
+    },
+    {
+      "from": "Virginia",
+      "to": "Maryland",
+      "km": 180.13317880736827
+    },
+    {
+      "from": "Maryland",
+      "to": "Delaware",
+      "km": 86.14818220032097
+    },
+    {
+      "from": "Delaware",
+      "to": "New Jersey",
+      "km": 134.57497038282557
+    },
+    {
+      "from": "New Jersey",
+      "to": "Connecticut",
+      "km": 245.09129143224212
+    },
+    {
+      "from": "Connecticut",
+      "to": "Rhode Island",
+      "km": 105.59818948485938
+    },
+    {
+      "from": "Rhode Island",
+      "to": "Massachusetts",
+      "km": 52.838803294305016
+    },
+    {
+      "from": "Massachusetts",
+      "to": "Maine",
+      "km": 252.6340056294726
+    },
+    {
+      "from": "Maine",
+      "to": "Vermont",
+      "km": 222.88417586572234
+    },
+    {
+      "from": "Vermont",
+      "to": "New Hampshire",
+      "km": 143.67278650919144
+    },
+    {
+      "from": "New Hampshire",
+      "to": "New York",
+      "km": 190.8973971042188
+    },
+    {
+      "from": "New York",
+      "to": "Pennsylvania",
+      "km": 372.1216072287722
+    },
+    {
+      "from": "Pennsylvania",
+      "to": "Washington DC",
+      "km": 152.40844597951605
+    }
+  ],
+  "total_km": 27173.092924625813
+}
